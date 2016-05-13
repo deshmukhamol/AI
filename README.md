@@ -10,6 +10,7 @@ Main purpose of the program is to identify the number guessed. In simple words, 
 2. Standard features - Logging, Security have yet to be implemented.
 3. The Number guessed and the number of retries are not stored. Though can be stored for empirical purpose
 4. Currently the algorithm to find the number is based on binary search. Any new algorithm is just a matter of adding a new CalcuationAlgo implementor
+5. Exception Handling is pending
 
 ## Design Philosophy / Class Details
 * App - Executor class
